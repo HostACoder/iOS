@@ -3,6 +3,7 @@
 React Native app for HostACoder using Auth0, iOS with React Native.
 
 ## Requirements:
+- IOS
 - Xcode and reactNative. https://facebook.github.io/react-native/docs/getting-started.html
 
 ## Instructions:
@@ -18,3 +19,5 @@ React Native app for HostACoder using Auth0, iOS with React Native.
 - Change UI
 - Inplement backend service (ex: firebase)
 - ...
+
+NOTE: Tested on IOS 10.10.3, watchman version 3.1.0.
