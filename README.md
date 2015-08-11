@@ -7,7 +7,7 @@ React Native app for HostACoder using Auth0, iOS with React Native.
 
 ## Instructions:
 
-1. `pod install`
+1. `pod install` (in case pod is not installed: https://guides.cocoapods.org/using/getting-started.html#getting-started)
 2. `./packager_start.sh`
 1. `open ReactNativeSample.xcworkspace` and hit _Command + R_
 
