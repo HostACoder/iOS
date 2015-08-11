@@ -1,0 +1,1 @@
+../../../LockReact/Pod/Classes/NativeModule/A0LockReactModule.h
